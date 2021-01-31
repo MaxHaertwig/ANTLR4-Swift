@@ -1,4 +1,4 @@
-// Generated from /Users/max/Developer/Open-Source/ANTLR4/runtime/Swift/Tests/Antlr4Tests/VisitorCalc.g4 by ANTLR 4.8
+// Generated from /Users/max/Developer/Open-Source/ANTLR4/runtime/Swift/Tests/Antlr4Tests/VisitorCalc.g4 by ANTLR 4.9.1
 import Antlr4
 
 open class VisitorCalcParser: Parser {
@@ -56,7 +56,7 @@ open class VisitorCalcParser: Parser {
 
 	override public
 	init(_ input:TokenStream) throws {
-	    RuntimeMetaData.checkVersion("4.8", RuntimeMetaData.VERSION)
+	    RuntimeMetaData.checkVersion("4.9.1", RuntimeMetaData.VERSION)
 		try super.init(input)
 		_interp = ParserATNSimulator(self,VisitorCalcParser._ATN,VisitorCalcParser._decisionToDFA, VisitorCalcParser._sharedContextCache)
 	}

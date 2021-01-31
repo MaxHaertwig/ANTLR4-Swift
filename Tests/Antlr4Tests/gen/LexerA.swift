@@ -1,4 +1,4 @@
-// Generated from /Users/max/Developer/Open-Source/ANTLR4/runtime/Swift/Tests/Antlr4Tests/LexerA.g4 by ANTLR 4.8
+// Generated from /Users/max/Developer/Open-Source/ANTLR4/runtime/Swift/Tests/Antlr4Tests/LexerA.g4 by ANTLR 4.9.1
 import Antlr4
 
 open class LexerA: Lexer {
@@ -49,7 +49,7 @@ open class LexerA: Lexer {
 
 	public
 	required init(_ input: CharStream) {
-	    RuntimeMetaData.checkVersion("4.8", RuntimeMetaData.VERSION)
+	    RuntimeMetaData.checkVersion("4.9.1", RuntimeMetaData.VERSION)
 		super.init(input)
 		_interp = LexerATNSimulator(self, LexerA._ATN, LexerA._decisionToDFA, LexerA._sharedContextCache)
 	}

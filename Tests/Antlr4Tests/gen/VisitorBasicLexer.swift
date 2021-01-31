@@ -1,4 +1,4 @@
-// Generated from /Users/max/Developer/Open-Source/ANTLR4/runtime/Swift/Tests/Antlr4Tests/VisitorBasic.g4 by ANTLR 4.8
+// Generated from /Users/max/Developer/Open-Source/ANTLR4/runtime/Swift/Tests/Antlr4Tests/VisitorBasic.g4 by ANTLR 4.9.1
 import Antlr4
 
 open class VisitorBasicLexer: Lexer {
@@ -49,7 +49,7 @@ open class VisitorBasicLexer: Lexer {
 
 	public
 	required init(_ input: CharStream) {
-	    RuntimeMetaData.checkVersion("4.8", RuntimeMetaData.VERSION)
+	    RuntimeMetaData.checkVersion("4.9.1", RuntimeMetaData.VERSION)
 		super.init(input)
 		_interp = LexerATNSimulator(self, VisitorBasicLexer._ATN, VisitorBasicLexer._decisionToDFA, VisitorBasicLexer._sharedContextCache)
 	}

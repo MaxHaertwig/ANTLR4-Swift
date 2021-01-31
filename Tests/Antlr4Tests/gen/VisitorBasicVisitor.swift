@@ -1,4 +1,4 @@
-// Generated from /Users/max/Developer/Open-Source/ANTLR4/runtime/Swift/Tests/Antlr4Tests/VisitorBasic.g4 by ANTLR 4.8
+// Generated from /Users/max/Developer/Open-Source/ANTLR4/runtime/Swift/Tests/Antlr4Tests/VisitorBasic.g4 by ANTLR 4.9.1
 import Antlr4
 
 /**
